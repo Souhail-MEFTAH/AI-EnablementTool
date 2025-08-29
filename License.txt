@@ -1,0 +1,9 @@
+Proprietary License
+
+Copyright (c) 2025 Souhail-MEFTAH. All rights reserved.
+
+This software and its source code are the exclusive property of Souhail-MEFTAH. Unauthorized copying, distribution, modification, reverse engineering, or use of any part of this software, in whole or in part, is strictly prohibited without prior written permission from the author.
+
+This project contains confidential and proprietary information intended only for review under agreed-upon terms. If you have obtained access to this code without authorization, you are required to delete it immediately.
+
+For licensing inquiries, please contact: https://github.com/Souhail-MEFTAH

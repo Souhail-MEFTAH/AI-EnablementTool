@@ -1,0 +1,4 @@
+[project]
+name = "ai-enable"
+version = "0.0.1"
+requires-python = ">=3.11,<3.12"
